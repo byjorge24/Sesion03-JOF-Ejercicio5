@@ -31,3 +31,4 @@ if __name__ == "__main__":
     print("El numero binario " + numero_binario + " es " + str(numero_decimal) + " en decimal.")
 
 # Modificacion Eric
+# Se viene Fork
